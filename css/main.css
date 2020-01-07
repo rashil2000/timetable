@@ -239,7 +239,7 @@ tbody tr:hover {
 }
 */
 
-@media screen and (max-width: 992px) {
+/* @media screen and (max-width: 992px) {
   table {
     display: block;
   }
@@ -315,4 +315,4 @@ tbody tr:hover {
     padding-left: 15px;
     padding-right: 15px;
   }
-}
+} */
