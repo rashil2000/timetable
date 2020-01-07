@@ -159,6 +159,7 @@ table tbody tr:last-child {
 table td, table th {
   text-align: center;
   width: 117px;
+  height: 120px;
 }
 table td.l, table th.l {
   text-align: right;
@@ -183,6 +184,10 @@ tbody tr:nth-child(even) {
   background-color: #f5f5f5;
 }
 
+tbody tr:nth-child(even) td {
+  height: 10px;
+}
+
 tbody tr {
   font-family: OpenSans-Regular;
   font-size: 15px;
@@ -194,7 +199,6 @@ tbody tr {
 tbody tr:hover {
   color: #555555;
   background-color: #f5f5f5;
-  cursor: pointer;
 }
 /*
 .column1 {
@@ -274,16 +278,16 @@ tbody tr:hover {
   table tbody tr td:nth-child(5):before {
     content: "Quantity";
   }
-  table tbody tr td:nth-child(6):before {
+  /*table tbody tr td:nth-child(6):before {
     content: "Total";
-  }
+  }*/
   /*
   .column4,
   .column5,
   .column6 {
     text-align: left;
   }
-
+  */
   .column4,
   .column5,
   .column6,
@@ -292,7 +296,7 @@ tbody tr:hover {
   .column3 {
     width: 100%;
   }
-  */
+
   tbody tr {
     font-size: 14px;
   }
