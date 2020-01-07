@@ -167,7 +167,7 @@ table tbody tr:last-child {
 table td, table th {
   text-align: center;
   width: 117px;
-  height: 120px;
+  height: 110px;
 }
 table td.l, table th.l {
   text-align: right;
@@ -193,7 +193,7 @@ tbody tr:nth-child(even) {
 }
 
 tbody tr:nth-child(even) td {
-  height: 10px;
+  height: 5px;
 }
 
 tbody tr {
@@ -295,7 +295,6 @@ tbody tr:hover {
   .column6 {
     text-align: left;
   }
-  */
   .column4,
   .column5,
   .column6,
@@ -308,11 +307,11 @@ tbody tr:hover {
   tbody tr {
     font-size: 14px;
   }
-}
+}*/
 
 @media (max-width: 576px) {
   .container-table100 {
     padding-left: 15px;
     padding-right: 15px;
   }
-} */
+}
