@@ -250,8 +250,8 @@ tbody tr:hover {
   padding-right: 62px;
 }
 */
-
-/* @media screen and (max-width: 992px) {
+/*
+@media screen and (max-width: 992px) {
   table {
     display: block;
   }
@@ -298,10 +298,9 @@ tbody tr:hover {
   table tbody tr td:nth-child(5):before {
     content: "Quantity";
   }
-  /*table tbody tr td:nth-child(6):before {
+  table tbody tr td:nth-child(6):before {
     content: "Total";
-  }*/
-  /*
+  }
   .column4,
   .column5,
   .column6 {
