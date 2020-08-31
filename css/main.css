@@ -217,8 +217,7 @@ tbody tr {
 }
 
 tbody tr:hover {
-  color: #555555;
-  background-color: #f5f5f5;
+  color: #000000;
 }
 /*
 .column1 {
