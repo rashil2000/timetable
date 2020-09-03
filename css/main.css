@@ -160,9 +160,6 @@ table thead tr {
 table tbody tr {
   height: 50px;
 }
-table tbody tr:last-child {
-  border: 0;
-}
 table td, table th {
   text-align: center;
   width: 117px;
